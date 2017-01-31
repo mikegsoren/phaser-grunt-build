@@ -1,0 +1,9 @@
+{
+  "name": "phaser-grunt-build",
+  "version": "1.0.1",
+  "homepage": "",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}
